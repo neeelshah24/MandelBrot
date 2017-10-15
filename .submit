@@ -1,0 +1,11 @@
+# Submit server .submit file for
+#  Course CMSC131-Emad
+#  Project 4 - Mandelbrot Set: Mandelbrot Set
+
+courseName=CMSC131-Emad
+semester=201701
+projectNumber=4 - Mandelbrot Set
+courseKey=67decee3f710854e
+authentication.type=ldap
+baseURL=https://submit.cs.umd.edu:443/spring2017
+submitURL=https://submit.cs.umd.edu:443/spring2017/eclipse/SubmitProjectViaEclipse
